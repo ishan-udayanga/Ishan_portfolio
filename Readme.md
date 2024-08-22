@@ -36,6 +36,7 @@
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
+✔️ Recommendations \
 ✔️ Resume\
 ✔️ Contact Info
 
